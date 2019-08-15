@@ -36,7 +36,7 @@ CREATE TABLE `base_admin_user`  (
 -- Records of base_admin_user
 -- ----------------------------
 INSERT INTO `base_admin_user` VALUES (1, 'admin', '928bfd2577490322a6e19b793691467e', 1, '13411182215', '2018-11-22 10:57:33', 1);
-INSERT INTO `base_admin_user` VALUES (2, 'jackson', '928bfd2577490322a6e19b793691467e', 2, '19563648695', '2018-11-22 10:57:33', 1);
-INSERT INTO `base_admin_user` VALUES (4, 'alice', '928bfd2577490322a6e19b793691467e', 2, '11111111111', '2018-11-22 11:01:58', 1);
+INSERT INTO `base_admin_user` VALUES (2, 'jackson', '6f055494278cc66b5f46a684fc1276c7', 2, '19563648695', '2018-11-22 10:57:33', 1);
+INSERT INTO `base_admin_user` VALUES (4, 'alice', '5e1030d25f5ca46aac4c0369b908d762', 2, '11111111111', '2018-11-22 11:01:58', 1);
 
 SET FOREIGN_KEY_CHECKS = 1;
